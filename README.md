@@ -6,7 +6,6 @@ This project demonstrates a basic Spatial Computable General Equilibrium (SCGE) 
 - Two-region SCGE framework
 - CES utility, Cobb-Douglas production
 - Capital allocation optimization
-- Policy simulation: trade cost reduction
 
 ## Run
 ```bash
